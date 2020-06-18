@@ -1,0 +1,26 @@
+.nav ul li{
+display: inline-block;
+}
+input{
+	padding: 5px 12px;
+	width: 80%;
+	border: none;
+	background: #d6c8c8;}
+	textarea{
+		padding: 5px 12px;
+	width: 80%;
+	border: none;
+	background: #d6c8c8;
+	}
+	select{
+		padding: 5px 12px;
+	width: 80%;
+	border: none;
+	background: #d6c8c8;
+	}
+	input[type=submit]{
+		padding: 5px 12px;
+	width: 80%;
+	border: none;
+	background: #a5c423;
+	}
